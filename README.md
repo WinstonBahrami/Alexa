@@ -1,1 +1,2 @@
-# Alexa
+ - Printing 1 to 100"
+ - Checking if divisible by 3 and/or 5
