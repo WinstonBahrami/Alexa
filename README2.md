@@ -1,2 +1,0 @@
-# Alexa
-print("Hello World!")
